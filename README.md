@@ -89,11 +89,9 @@ A Kanban-first CRM platform designed for freelancers and agencies.
 ## 📈 GitHub Stats
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=keketsoleu25&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=keketsoleu25&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keketsoleu25&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=keketsoleu25&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -140,6 +138,11 @@ https://linkedin.com/in/YOUR-LINKEDIN
 - ✅ Grow The Tech Alchemy Lab
 
 ---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=keketsoleu25&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![](https://komarev.com/ghpvc/?username=keketsoleu25&color=blue)
 
 ## 💡 Quote
 
