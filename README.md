@@ -121,7 +121,7 @@ https://the-tech-alchemy-lab.vercel.app/
 
 > Add your LinkedIn profile here
 
-https://linkedin.com/in/YOUR-LINKEDIN
+https://www.linkedin.com/in/keketso-leu/
 
 ---
 
