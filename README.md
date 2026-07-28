@@ -85,7 +85,6 @@ A Kanban-first CRM platform designed for freelancers and agencies.
 **Currently under active development.**
 
 ---
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -95,9 +94,14 @@ A Kanban-first CRM platform designed for freelancers and agencies.
 </p>
 
 <p align="center">
+  <img width="750" src="https://streak-stats.demolab.com?user=keketsoleu25&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=keketsoleu25&theme=tokyonight&hide_border=true"/>
 
+## 📊 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=keketsoleu25&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
