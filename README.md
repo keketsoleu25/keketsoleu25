@@ -1,16 +1,154 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Keketso Leu</h1>
 
-<!--
-**keketsoleu25/keketsoleu25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Graduate Software Engineer | Full-Stack Developer | Founder of The Tech Alchemy Lab
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+I enjoy building modern web applications that solve real-world problems. My work focuses on creating fast, scalable, and user-friendly digital solutions for businesses, NGOs, and startups using modern web technologies.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Graduate Software Engineer
+- 💻 Full-Stack Web Developer
+- 🌍 Based in Gauteng, South Africa
+- 🚀 Founder of **The Tech Alchemy Lab**
+- 🌱 Currently building a **CRM Platform** for freelancers and small businesses
+- 🎯 Interested in Software Engineering, AI, SaaS, and Cloud Technologies
+- 📚 Always learning and improving my craft
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,npm" />
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+### 🚀 The Tech Alchemy Lab
+
+Modern software agency and portfolio showcasing professional web development services.
+
+🌐 https://the-tech-alchemy-lab.vercel.app/
+
+---
+
+### 🏫 Bambanani Day Care Centre
+
+Professional website developed to strengthen the daycare's online presence.
+
+🌐 https://bambananidaycare.co.za/
+
+---
+
+### 🎓 Ithacademic Foundation
+
+Website built for a nonprofit organization supporting students through mentorship, education, and community development.
+
+🌐 https://www.ithacademic-foundation.co.za/
+
+---
+
+### 🌱 Ndimase Development Center
+
+Modern website developed to help a community development organization establish a strong digital presence.
+
+🌐 https://ndimase-development-center.vercel.app/
+
+---
+
+### 💼 Tech Alchemy CRM
+
+A Kanban-first CRM platform designed for freelancers and agencies.
+
+**Currently under active development.**
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=keketsoleu25&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keketsoleu25&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=keketsoleu25&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌐 Portfolio
+
+**The Tech Alchemy Lab**
+
+https://the-tech-alchemy-lab.vercel.app/
+
+---
+
+## 💼 LinkedIn
+
+> Add your LinkedIn profile here
+
+https://linkedin.com/in/YOUR-LINKEDIN
+
+---
+
+## 📫 Contact
+
+📧 Email: keketsoleu25@gmail.com
+
+🌍 Website: https://the-tech-alchemy-lab.vercel.app/
+
+🐙 GitHub: https://github.com/keketsoleu25
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Build enterprise-grade web applications
+- ✅ Contribute to Open Source
+- ✅ Master Backend Engineering
+- ✅ Learn Docker & AWS
+- ✅ Land a Software Engineering role
+- ✅ Grow The Tech Alchemy Lab
+
+---
+
+## 💡 Quote
+
+> *"Technology is not just about writing code—it's about solving problems that matter."*
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider giving my repositories a star!
+
+</p>
