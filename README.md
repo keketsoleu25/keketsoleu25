@@ -5,9 +5,12 @@ Graduate Software Engineer | Full-Stack Developer | Founder of The Tech Alchemy 
 </h3>
 
 <p align="center">
-I enjoy building modern web applications that solve real-world problems. My work focuses on creating fast, scalable, and user-friendly digital solutions for businesses, NGOs, and startups using modern web technologies.
+Graduate Software Engineer trained at Codespace Academy, passionate about designing and developing scalable full-stack applications. I specialize in building modern digital solutions using technologies such as React, Next.js, TypeScript, Python, Django, Prisma, and PostgreSQL.
 </p>
 
+<p align="center">
+I enjoy solving real-world problems through technology by creating fast, accessible, and user-friendly applications for businesses, NGOs, startups, and entrepreneurs.
+</p>
 ---
 
 ## 🚀 About Me
