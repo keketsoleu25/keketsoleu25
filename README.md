@@ -1,3 +1,4 @@
+---
 <h1 align="center">Hi 👋, I'm Keketso Leu</h1>
 
 <h3 align="center">
@@ -5,11 +6,11 @@ Software Developer | Frontend Developer | Founder of The Tech Alchemy Lab
 </h3>
 
 <p align="center">
-Graduate Software Engineer trained at Codespace Academy, passionate about designing and developing scalable full-stack applications. I specialize in building modern digital solutions using technologies such as React, Next.js, TypeScript, Python, Django, Prisma, and PostgreSQL.
+Software Developer trained at Codespace Academy with experience building modern web applications for businesses, NGOs, and startups. I specialize in React, Next.js, TypeScript, Python, Django, Prisma, and PostgreSQL.
 </p>
 
 <p align="center">
-I enjoy solving real-world problems through technology by creating fast, accessible, and user-friendly applications for businesses, NGOs, startups, and entrepreneurs.
+I enjoy solving real-world problems through technology by creating fast, accessible, and user-friendly digital solutions. My goal is to build software that is scalable, maintainable, and delivers measurable value to users.
 </p>
 ---
 
