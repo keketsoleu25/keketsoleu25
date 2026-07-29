@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keketso Leu</h1>
 
 <h3 align="center">
-Graduate Software Engineer | Full-Stack Developer | Founder of The Tech Alchemy Lab
+Software Developer | Frontend Developer | Founder of The Tech Alchemy Lab
 </h3>
 
 <p align="center">
