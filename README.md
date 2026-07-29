@@ -12,7 +12,7 @@ Software Developer trained at Codespace Academy with experience building modern 
 <p align="center">
 I enjoy solving real-world problems through technology by creating fast, accessible, and user-friendly digital solutions. My goal is to build software that is scalable, maintainable, and delivers measurable value to users.
 </p>
----
+
 
 ## 🚀 About Me
 
