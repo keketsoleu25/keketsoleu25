@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Keketso Leu</h1>
 
 <h3 align="center">
-Software Developer | Frontend Developer | Founder of The Tech Alchemy Lab
+Full-Stack Developer | Software Developer | Founder of The Tech Alchemy Lab
 </h3>
 
 <p align="center">
-Software Developer trained at Codespace Academy with experience building modern web applications for businesses, NGOs, and startups. I specialize in React, Next.js, TypeScript, Python, Django, Prisma, and PostgreSQL.
+Full-Stack Developer trained at Codespace Academy with experience building modern web applications for businesses, NGOs, and startups. I specialize in React, Next.js, TypeScript, Python, Django, Prisma, and PostgreSQL.
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ I enjoy solving real-world problems through technology by creating fast, accessi
 - 💻 Full-Stack Web Developer
 - 🌍 Based in Gauteng, South Africa
 - 🚀 Founder of **The Tech Alchemy Lab**
-- 🌱 Currently building a **CRM Platform** for freelancers and small businesses
+- 🌱 Built and deployed **Tech Alchemy CRM**, a full-stack CRM for freelancers and small businesses
 - 🎯 Interested in Software Engineering, AI, SaaS, and Cloud Technologies
 - 📚 Always learning and improving my craft
 
@@ -84,9 +84,11 @@ Modern website developed to help a community development organization establish 
 
 ### 💼 Tech Alchemy CRM
 
-A Kanban-first CRM platform designed for freelancers and agencies.
+A full-stack CRM for freelancers and agencies with authentication, client, project, task, invoice, notification, admin, pagination, security, and PDF export workflows.
 
-**Currently under active development.**
+🌐 https://tech-alchemy-crm.vercel.app/
+
+💻 https://github.com/keketsoleu25/tech-alchemy-crm
 
 ---
 ## 📈 GitHub Stats
